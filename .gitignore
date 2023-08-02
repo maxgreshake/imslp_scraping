@@ -1,0 +1,5 @@
+# Ignore data folders
+imslp/*
+
+# Ignore temporary files
+.ipynb_checkpoints
